@@ -11,3 +11,5 @@ comparation:
 	${CP2}/comparation.cpp -o ${OUT}/comparation
 grade_book:
 	${CP3}/grade_book.cpp -o ${OUT}/gradebook
+file:
+	${CP3}/file.cpp -o ${OUT}/file
